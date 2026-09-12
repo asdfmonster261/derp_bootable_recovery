@@ -23,6 +23,7 @@
 #include <stdlib.h>
 
 #include <list>
+#include <vector>
 #include <mutex>
 #include <string>
 
